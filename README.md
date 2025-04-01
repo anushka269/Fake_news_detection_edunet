@@ -1,1 +1,2 @@
-# Fake_news_detection_edunet
+# Fake_news_detection
+The spread of fake news through social media and online platforms has become a significant issue, influencing public opinion and spreading misinformation. Traditional methods of verifying the authenticity of news are often ineffective due to the high volume and rapid dissemination of information. Therefore, there is an urgent need for automated systems that can help in accurately identifying and filtering out fake news articles to ensure the reliability of the information being consumed by the public.
